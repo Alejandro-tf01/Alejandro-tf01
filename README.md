@@ -1,5 +1,3 @@
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-tf01/Alejandro-tf01/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-tf01/Alejandro-tf01/output/pacman-contribution-graph.svg">
@@ -73,14 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alejandro-tf01&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2&custom_title=%F0%9F%94%A5%20Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Alejandro-tf01&locale=es&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="225" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-tf01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=es&hide_border=false&order=1&custom_title=%F0%9F%93%8C%20Estad%C3%ADsticas%20de%20GitHub" height="250" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31fkbj34zhpy3cp7gfidg66dtiui">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fkbj34zhpy3cp7gfidg66dtiui&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
